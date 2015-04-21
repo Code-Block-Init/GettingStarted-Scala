@@ -1,0 +1,4 @@
+[1] docs
+http://www.scala-lang.org/documentation/
+[2] community
+http://www.scala-lang.org/community/
